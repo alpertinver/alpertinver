@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IT developer<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning devops<br>💬 Ask me about Full Stack<br>⚡ Fun fact ı'm Electric and Electronics Engineer
+🔭 I’m currently working on IT developer<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning devops<br>💬 Ask me about Full Stack<br>⚡
 
 
 ## 🌐 Socials:
