@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IT developer<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning devops<br>💬 Ask me about Full Stack<br>⚡
+🔭 I’m currently working on Network Engineer<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning devops ⚡<br>💬 Ask me about Full Stack<br>
 
 
 ## 🌐 Socials:
